@@ -1,0 +1,6 @@
+C:\Users\Abril Soto\OneDrive\Documentos\SharpDevelop Projects\MetodologiaDeLaProgramacionI\MetodologiaDeLaProgramacionI\obj\Debug\MetodologiaDeLaProgramacionI.csprojResolveAssemblyReference.cache
+C:\Users\Abril Soto\OneDrive\Documentos\SharpDevelop Projects\MetodologiaDeLaProgramacionI\MetodologiaDeLaProgramacionI\bin\Debug\MetodologiaDeLaProgramacionI.exe.config
+C:\Users\Abril Soto\OneDrive\Documentos\SharpDevelop Projects\MetodologiaDeLaProgramacionI\MetodologiaDeLaProgramacionI\bin\Debug\MetodologiaDeLaProgramacionI.exe
+C:\Users\Abril Soto\OneDrive\Documentos\SharpDevelop Projects\MetodologiaDeLaProgramacionI\MetodologiaDeLaProgramacionI\bin\Debug\MetodologiaDeLaProgramacionI.pdb
+C:\Users\Abril Soto\OneDrive\Documentos\SharpDevelop Projects\MetodologiaDeLaProgramacionI\MetodologiaDeLaProgramacionI\obj\Debug\MetodologiaDeLaProgramacionI.exe
+C:\Users\Abril Soto\OneDrive\Documentos\SharpDevelop Projects\MetodologiaDeLaProgramacionI\MetodologiaDeLaProgramacionI\obj\Debug\MetodologiaDeLaProgramacionI.pdb
