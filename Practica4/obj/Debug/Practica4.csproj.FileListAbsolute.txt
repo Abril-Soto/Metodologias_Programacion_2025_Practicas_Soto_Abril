@@ -1,0 +1,6 @@
+C:\Users\Abril Soto\OneDrive\Documentos\SharpDevelop Projects\MetodologiaDeLaProgramacionI\Practica4\obj\Debug\Practica4.csprojResolveAssemblyReference.cache
+C:\Users\Abril Soto\OneDrive\Documentos\SharpDevelop Projects\MetodologiaDeLaProgramacionI\Practica4\bin\Debug\Practica4.exe.config
+C:\Users\Abril Soto\OneDrive\Documentos\SharpDevelop Projects\MetodologiaDeLaProgramacionI\Practica4\bin\Debug\Practica4.exe
+C:\Users\Abril Soto\OneDrive\Documentos\SharpDevelop Projects\MetodologiaDeLaProgramacionI\Practica4\bin\Debug\Practica4.pdb
+C:\Users\Abril Soto\OneDrive\Documentos\SharpDevelop Projects\MetodologiaDeLaProgramacionI\Practica4\obj\Debug\Practica4.exe
+C:\Users\Abril Soto\OneDrive\Documentos\SharpDevelop Projects\MetodologiaDeLaProgramacionI\Practica4\obj\Debug\Practica4.pdb
